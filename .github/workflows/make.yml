@@ -18,7 +18,7 @@ jobs:
       - name: check
         shell: bash
         run: |
-          hello_world_application/_build/Hello
+          _build/hello_world_application/Hello
     
     
     
