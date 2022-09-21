@@ -3,7 +3,7 @@ name: Formatter
 on:
   push:
       branches: 
-      - main
+      - master
   
 jobs:
   Libraries:
