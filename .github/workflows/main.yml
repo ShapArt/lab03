@@ -73,5 +73,5 @@ jobs:
           - name: solver_output
             shell: bash
             run: |
-              cd solver_application
-              ./equation.cpp 4 6 -8
+              cd solver/solver_application
+              ./equation 4 6 -8
